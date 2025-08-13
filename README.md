@@ -1,4 +1,4 @@
-# Kanika-Jain
+# Hey! I am Kanika Jain
 
 Python Developer | AI & ML Enthusiast | MCA Student
 
